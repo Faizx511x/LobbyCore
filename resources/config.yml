@@ -1,0 +1,75 @@
+#SimpleCore made by FaizDev
+
+#Hub Nessages Config
+
+Hub-Message: "§l§bYou returned to the lobby {player}"
+
+
+#Menu Games Config
+
+GameTitle: "§l§bGames"
+GameInfo: "§l§fChoose the minigame you wanna play!"
+
+GameForm1: "§l§fSky§bWars§r"
+GameForm2: "§l§fBed§bWars§r"
+GameForm3: "§l§fMurder§bMystery§r"
+GameForm4: "§l§fThe§bBridge"
+GameForm5: "§l§fF§eF§bA§r"
+GameForm6: "§l§fFi§bst§r"
+
+#Menu Games Command Config
+
+CommandForm1: "sw join"
+CommandForm2: "bw join"
+CommandForm3: "mm join"
+CommandForm4: "tb join"
+CommandForm5: "ffa join"
+CommandForm6: "fist join"
+
+#Menu Cosmetics Config
+
+CosmeticTitle: "§l§bCosmetics"
+CosmeticInfo: "§fPick THe Setting!"
+
+CosmeticForm1: "§aFly"
+CosmeticForm2: "§cSize"
+CosmeticForm3: "§6Nick"
+CosmeticForm4: "§bCape"
+
+#Menu Fly Config
+
+FlyTitle: "§l¿Fly ON & Fly OFF?"
+FlyInfo: "Fly for VIP"
+
+FlyForm1: "FLY ON"
+FlyForm2: "FLY OFF"
+
+#Messages Fly Config
+
+FlyMessageTrue: "§aFly ON!"
+
+FlyMessageFalse: "§cFly OFF!"
+
+#Menu Size Config
+
+SizeTitle: "§lSizeMode"
+SizeInfo: "Aumenta el tamaño de tu skin"
+
+SizeForm1: "Size Normal!"
+SizeForm2: "Size Medium!"
+SizeForm3: "Size Big!"
+
+#Message Size Config
+
+SizeMessageNormal: "Size Normal!"
+
+SizeMessageMedium: "Size Medium!"
+
+SizeMessageBig: "Size Big!"
+
+#Menu Info Config
+
+InfoTitle: "§lInformacion"
+Info: "§lInformation"
+
+#Soon More Updates

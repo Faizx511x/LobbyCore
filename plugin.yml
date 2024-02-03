@@ -1,0 +1,9 @@
+name: LobbyCore
+main: LC\LobbyCore
+version: 1.2
+api: 5.0.0
+authors: ['JuanantonioVYT', 'FaizDev']
+
+permissions:
+  lobbycore.command.hub:
+    default: true
